@@ -1,0 +1,52 @@
+ body {
+    font-family: 'Times New Roman', Times, serif;
+    background: #d6ffff;
+    margin: 0;
+    padding: 0;
+}
+
+.Fprofile {
+    width: 160px;
+    height: 160px;
+    border-radius: 10%;
+    border: 1px solid #141414;
+    margin-bottom: 20px;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+
+header h1 {
+    margin: 0;
+    color: #000000;
+}
+
+header p {
+    margin: 5px 0;
+    color: #666;
+}
+
+section h2 {
+    color: #000000;
+    border-bottom: 1px solid #001718;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    margin-left: 3%;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 8px;
+    margin-left: 3%;
+}
+
+.isiProfil{
+    margin-left: 3%;
+}
